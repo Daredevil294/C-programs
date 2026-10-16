@@ -9,13 +9,12 @@ The code in this repository represents my learning journey from the basics of C 
 Some programs may be very simple, while others may demonstrate concepts that I learned later. I have kept them here as a record of my practice and progress.
 ## 🎯 Purpose
 The main purpose of this repository is to:
-
-Practice C programming consistently
-Store the programs I write while learning
-Track my progress over time
-Improve my problem-solving skills
-Build a habit of writing and understanding code
-Create a record of my programming journey
+Practice C programming consistently.
+Store the programs I write while learning.
+Track my progress over time.
+Improve my problem-solving skills.
+Build a habit of writing and understanding code.
+Create a record of my programming journey.
 ## 🚀 My Learning Journey
 I started learning C as a beginner, focusing first on understanding the fundamentals and gradually moving toward more challenging concepts.
 
